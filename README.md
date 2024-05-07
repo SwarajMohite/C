@@ -1,6 +1,6 @@
 # C
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Our%20C%20Language%20MicroProject.;%20A%20College%20Allocation%20Bot.&font=italic&fontSize=50&color=FF4500&fontWeight=bold)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Our%20C%20Language%20MicroProject.;%20A%20College%20Allocation%20Bot%20System.&font=italic&fontSize=50&color=FF4500&fontWeight=bold)
 
 This is all about our MicroProject of C language. Here we have made <b> College Allocation bot system </b> where we have to enter our last year percentage with our basic information and on the basic of percentage, cast and age our bot suggest college names to user, then user can choose any one college from that. After all the bot display whole form with confirmed college...
 
@@ -13,6 +13,5 @@ admission process.
 
 #
 
-  <img src="https://komarev.com/ghpvc/?username=SwarajMohite&label=Repository%20Visit&color=0e75b6&style=flat&show_icons=true&locale=en&theme=dark" alt="Profile visits">
   
 
